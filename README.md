@@ -1,2 +1,2 @@
-# Champions-Lab-Releases
-Public release feed for Champions Lab
+# MatchBook Releases
+Public release feed for MatchBook
